@@ -1,4 +1,4 @@
-package com.kuzmin.blog;
+package com.kuzmin.blog.constants;
 
 public interface BlogConstants {
     /* Constants specific to Roles  */
